@@ -31,3 +31,4 @@ CONN - https://web.conn-toolbox.org/
 
 FSL - https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 
+If you use or adapt this code in your work, please cite the present repository.
